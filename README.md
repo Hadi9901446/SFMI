@@ -10,7 +10,7 @@ https://developers.google.com/earth-engine/datasets/catalog/COPERNICUS_S2_SR_HAR
 https://developers.google.com/earth-engine/datasets/catalog/USGS_SRTMGL1_003
 
 # code + Javascript + GEE
-The source code and data will be available for downloading.
+The source code will be available for download.
 
 # Email:
 Hadifarhadi18@gmail.com
