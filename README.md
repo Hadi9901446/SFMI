@@ -11,3 +11,6 @@ https://developers.google.com/earth-engine/datasets/catalog/COPERNICUS_S2_SR_HAR
 
 # SRTM DEM 
 https://developers.google.com/earth-engine/datasets/catalog/USGS_SRTMGL1_003
+
+# code
+The source code and data will be available for downloading.
